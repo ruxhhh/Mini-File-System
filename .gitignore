@@ -1,0 +1,8 @@
+# Compiled program
+mini_fs
+
+# Generated disk image
+mini_fs.img
+
+# Object files
+*.o
